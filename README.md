@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am conductig A/B test. This counter below is helping me to collect data. 😄 
+### I am conducting A/B test. This counter below is helping me to collect data. 😄 
 
 ![](https://komarev.com/ghpvc/?username=evgenygrobov&label=PROFILE+VIEWS)
 
