@@ -2,8 +2,8 @@
 
 ### I am a data scientist with Bachelors in Engineering and substantial experience in business performance and decision-making.
 ●	**Business Analytic** – 4+ focusing on data, business performance analytics, getting insights from it to improve business performance and customer experience   
-●	**Project Management** – 6+ years assisting with project leading, delivering qualitative products in timely manner                           
-●	**Python, SQL, Excel** – 6+ years managing and analyzing data using **Excel**,2+ year writing **SQL** queries to manage and analyze data, 1+ year using **Python** for data analysis  
+●	**Project Management** – 6+ years of assisting with leading projects, delivering qualitative products in timely manner                           
+●	**Python, SQL, Excel** – 6+ years of using **Excel**, 2+ year of querying databases with **SQL** engines, 1+ year using **Python** for statistical data analysis and data visualization. Utilized regression, classification and clsutering machine learning algorithms.   
 
 
 ![](https://komarev.com/ghpvc/?username=evgenygrobov&label=PROFILE+VIEWS)
