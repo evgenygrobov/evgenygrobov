@@ -7,6 +7,7 @@ I am proud of new big achievment of mine. I get graduated from Galvanize Data Sc
 A 13-week immersive, 400+ hours of coding, Python-based curriculum that is focused on machine learning and best practices in statistical analysis, including frequentist and Bayesian methods. Utilizing regression, classification, and clustering to model real-world structured and unstructured data. Explores NLP and Deep Learning techniques, in addition to Spark on AWS.  
 
 
+
 ![](https://komarev.com/ghpvc/?username=evgenygrobov&label=PROFILE+VIEWS)
 
 
