@@ -1,4 +1,4 @@
-### Hi, Evgeny here 👋
+### Hi, Evgeny is here 👋
 
 ### I am a data scientist with Bachelors in Engineering and substantial experience with getting actionable insights from and improving decision-making.
 
