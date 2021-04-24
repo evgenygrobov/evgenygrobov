@@ -1,6 +1,6 @@
 ### Hi, Evgeny is here 👋
 
-### I am a data scientist with Bachelors in Engineering and substantial experience with getting actionable insights from and improving decision-making.
+### I am a data scientist with Bachelors in Engineering and substantial experience with getting actionable insights from data and improving decision-making.
 
 I am proud of new big achievment of mine. I get graduated from Galvanize Data Science Bootcamp. 
 
